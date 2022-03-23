@@ -16,7 +16,7 @@ namespace Projeto
         {
             base.OnModelCreating(modelBuilder);
 
-            modelBuilder.Entity<Agente>().HasKey(t => t.Id);
+            //modelBuilder.Entity<Agente>().HasKey(t => t.Id);
         }
     }
 }

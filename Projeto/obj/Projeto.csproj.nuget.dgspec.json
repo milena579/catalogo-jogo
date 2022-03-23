@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alunos\\source\\repos\\Projeto\\Projeto\\Projeto.csproj": {}
+    "C:\\Users\\Alunos\\Downloads\\catalogo-jogo-main (1)\\catalogo-jogo-main\\Projeto\\Projeto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alunos\\source\\repos\\Projeto\\Projeto\\Projeto.csproj": {
+    "C:\\Users\\Alunos\\Downloads\\catalogo-jogo-main (1)\\catalogo-jogo-main\\Projeto\\Projeto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alunos\\source\\repos\\Projeto\\Projeto\\Projeto.csproj",
+        "projectUniqueName": "C:\\Users\\Alunos\\Downloads\\catalogo-jogo-main (1)\\catalogo-jogo-main\\Projeto\\Projeto.csproj",
         "projectName": "Projeto",
-        "projectPath": "C:\\Users\\Alunos\\source\\repos\\Projeto\\Projeto\\Projeto.csproj",
+        "projectPath": "C:\\Users\\Alunos\\Downloads\\catalogo-jogo-main (1)\\catalogo-jogo-main\\Projeto\\Projeto.csproj",
         "packagesPath": "C:\\Users\\Alunos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alunos\\source\\repos\\Projeto\\Projeto\\obj\\",
+        "outputPath": "C:\\Users\\Alunos\\Downloads\\catalogo-jogo-main (1)\\catalogo-jogo-main\\Projeto\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alunos\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -68,7 +68,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

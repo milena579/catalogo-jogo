@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "N3T7T0cjclvr/z2BcE/qELJnsrZeARD2zWoTnKQB4ocjcR5YKF0BwNLMBNgzCKPNxWNJHKUoetfK1FHVu/exAg==",
+  "dgSpecHash": "2m74sLc8GVaCUZoAB5pArHiKYssBKSCBkuZTzGLk0D/KJM5v/yq+Z5lOeyt7I/eExtiI2D/ix/xOLIlOVZUC2A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Alunos\\source\\repos\\Projeto\\Projeto\\Projeto.csproj",
+  "projectFilePath": "C:\\Users\\Alunos\\Downloads\\catalogo-jogo-main (1)\\catalogo-jogo-main\\Projeto\\Projeto.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alunos\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Users\\Alunos\\.nuget\\packages\\microsoft.aspnetcore\\2.1.1\\microsoft.aspnetcore.2.1.1.nupkg.sha512",
